@@ -1,8 +1,8 @@
-### Henloooo 👋, Terrence here
+### <h1>Henloooo 👋, Terrence here</h1>
 ![](https://img.freepik.com/free-vector/blue-wavy-background_677411-2103.jpg?t=st=1727616829~exp=1727620429~hmac=e756bfb0f6ea6e9788fccf7201738850f5110b03a0160865072e9d1e16ff2121&w=1380)
 
-<h5>Well, *Terrence Gil M. Lopez* to be exact. I'm a 2nd year IT student
-who is currently learning web development and how to push projects in github.</h5>
+<h2>Well, <i>Terrence Gil M. Lopez</i> to be exact. I'm a 2nd year IT student
+who is currently learning web development and how to push projects in github.</h2>
 
 **Skills**: 
 HTML / CSS / JAVASCRIPT / FIGMA / Cc / Ps 
