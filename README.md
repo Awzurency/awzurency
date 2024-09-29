@@ -20,3 +20,5 @@ Skills: HTML / CSS / JAVASCRIPT / FIGMA / Cc / Ps
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=awzurency)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awzurency)](https://github.com/anuraghazra/github-readme-stats)
+
