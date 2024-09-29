@@ -1,16 +1,22 @@
-## Hi there 👋
+### Helloooo 👋, Terrence here
+![](https://img.freepik.com/free-vector/blue-wavy-background_677411-2103.jpg?t=st=1727616829~exp=1727620429~hmac=e756bfb0f6ea6e9788fccf7201738850f5110b03a0160865072e9d1e16ff2121&w=1380)
 
-<!--
-**Awzurency/awzurency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+well, Terrence Gil M. Lopez to be exact. I'm a 2nd year IT student
+who is currently learning web development and how to push projects in github.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JAVASCRIPT / FIGMA / Cc / Ps 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React js, and React Native. 
+- 📫 How to reach me: on my socials, below. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/awzurency)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/chunnchumaruu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/chunnchumaruu/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awzurency)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=awzurency&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=awzurency)  
+
