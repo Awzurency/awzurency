@@ -3,9 +3,11 @@
 
 <h2 align="center">Well, <i>Terrence Gil M. Lopez</i> to be exact. I'm a 2nd year IT student
 who is currently learning web development and how to push projects in github.</h2>
+<h2>🧰 Languages, Frameworks, and Tools</h2>
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,ai,ps,react" alt="Skills" />
+</p>
 
-**Skills**: 
-HTML / CSS / JAVASCRIPT / FIGMA / Cc / Ps 
 
 - 🌱 I’m currently learning React js, and React Native. 
 - 📫 You can reach me through my socials below.
