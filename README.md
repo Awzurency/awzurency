@@ -1,6 +1,6 @@
  <h1 align="center">Henloooo 👋, Terrence here</h1>
 <p align="center">
-  <img src="https://github.com/Awzurency/Awzurency/blob/main/headerr.png" alt="Header" />
+  <img src="https://github.com/Awzurency/Awzurency/blob/main/Headerr.png" alt="Header" />
 </p>
 
 <h2 align="center">Well, <i>Terrence Gil M. Lopez</i> to be exact. I'm a 2nd year IT student
